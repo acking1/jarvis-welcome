@@ -5,16 +5,16 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;3
 clear
 mpv /$HOME/jarvis-welcome/terminal.mp3
 clear
-echo -e "Created By \e[5mAmshenShanu"
-echo "----------------------------" | lolcat
+echo -e "Created By \e[5mDark-W Hacking"
+echo "----------------------------" | Dark-W Hacking
 echo "
 o      o        8
 8      8        8
 8      8 .oPYo. 8 .oPYo. .oPYo. ooYoYo. .oPYo.
 8  db  8 8oooo8 8 8      8    8 8' 8  8 8oooo8
  b.PY.d' 8.     8 8    . 8    8 8  8  8 8.
-  8  8'   Yooo  8  YooP   YooP  8  8  8  Yooo " | lolcat
+  8  8'   Yooo  8  YooP   YooP  8  8  8  Yooo " | Dark-W Hacking
 echo ""
   
-date | lolcat
+date | Akash Dark-W Hacking
 echo ""
